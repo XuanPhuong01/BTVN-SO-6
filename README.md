@@ -67,7 +67,7 @@ Giải thích lệnh:
 
 # 10. HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC)
 Để liệt kê các sv nữ ngành KMT có trong bảng sv thì em dùng câu lênh sau: 
-![Uploading Ảnh chụp màn hình (854).png…]()
+![Ảnh chụp màn hình (854)](https://github.com/user-attachments/assets/88a00c43-ef95-4da1-bb77-ece9c64822db)
 
 Giải thích:
 + vì trong bảng sv không có cột giới tính nên em dựa vào họ đêm. Em lọc những sinh viên có họ đêm là 'Thị' làm 1 điều kiện để lọc sinh viên
